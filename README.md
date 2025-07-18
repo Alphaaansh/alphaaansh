@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Ansh Kumar
 
-<!--
-**Alphaaansh/alphaaansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech CSE student at Krishna Vikas Institute of Technology, Raipur (5th Sem)  
+Learning Java,DSA,and building desktop apps using Java AWT & Swing  
+Exploring Git, GitHub, and writing clean OOP-based Java code  
+Goal: Become a software developer & crack product-based companies by final year
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I’m Working With:
+- Java • Java Swing • Java AWT  
+- Data Structures and Algorithms  
+- Git & GitHub • OOP
+
+---
+
+### 📫 Let's Connect:
+-[LinkedIn] (https://www.linkedin.com/in/ansh-kumar-32a902375)
